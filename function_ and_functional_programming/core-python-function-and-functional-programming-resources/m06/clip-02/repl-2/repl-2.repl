@@ -1,2 +1,0 @@
->>> list(trues)                                                                 
-[1, True, [1, 2, 3], 'hello']                                                   

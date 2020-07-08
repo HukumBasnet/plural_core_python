@@ -1,3 +1,0 @@
->>> Resolver                                                                    
-<class 'resolver.Resolver'>                                                     
->>> resolve = Resolver()                                                        
