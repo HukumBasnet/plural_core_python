@@ -1,2 +1,0 @@
->>> Decimal(-7) % Decimal(3)                                                    
-Decimal('-1')                                                                   

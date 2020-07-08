@@ -1,7 +1,0 @@
-Decimal('Infinity')                                                             
->>> Decimal('-Infinity')                                                        
-Decimal('-Infinity')                                                            
->>> Decimal('NaN')                                                              
-Decimal('NaN')                                                                  
->>> Decimal('NaN') + Decimal('1.414')                                           
-Decimal('NaN')                                                                  

@@ -1,5 +1,0 @@
->>> from resolver import Resolver
->>> Resolver
-<class 'resolver.Resolver'>
->>> resolve = Resolver()
-
